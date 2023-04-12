@@ -26,7 +26,19 @@ To install osTicket, your web server must have PHP 8.0 - 8.1 (8.1 recommended) a
 
 <h2>List of Prerequisites</h2>
 
-- <p>
+<b>1</b>- <p>
 <img src="https://res.cloudinary.com/lwgatsby/f_auto/www/uploads/2021/07/osticket1-web-based-installation.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<h5><b>2</b>- Complete the form below to establish your admin user and database settings. Once finished, click Install Now.</h5>
+<p><img src="https://res.cloudinary.com/lwgatsby/f_auto/www/uploads/2021/07/osticket2-basic-installation.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></P>
+<h5><b>3-</b> After installing osTicket, you can configure your support ticket system.</h5>
+<p><img src="https://res.cloudinary.com/lwgatsby/f_auto/www/uploads/2021/07/osticket1-web-based-installation.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></P>
 
+<h2>Some helpful links you will find on this page are:</h2>
+Your osTicket URL: Where your customers can submit support requests created via email.
+Your Staff Control Panel: Where users can access the admin panel to control various settings.
+osTicket Forums: Where users can ask and answer osTicket questions.
+osTicket Community Wiki: Where users can find additional osTicket documentation.
+
+<h1>Conclusion</h1>
+osTicket is a very useful tool for your support system and is completely free. Not everyone needs an enterprise product like SalesForce or Zendesk, which is where osTicket comes in. After familiarizing yourself with osTicket, handling customer inquiries created via email will become a breeze.
